@@ -1,7 +1,5 @@
 # Student_Registration_Form
 
-# Student Registration Form
-
 A simple student registration web app built with HTML, CSS, and JavaScript. Fill in your details, and the form validates everything before showing a success message with your information.
 
 ## Features
